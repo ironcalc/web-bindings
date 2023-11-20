@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5"
+  },
+  "dependencies": {
+    "@ironcalc/wasm": "^0.1.0"
+  }
+}
